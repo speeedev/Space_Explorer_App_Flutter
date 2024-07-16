@@ -4,7 +4,7 @@ The Space Explorer application I developed with Flutter gives information about 
 
 ### Installation and operation
 
-1. git clone https://github.com/speeedev/flutter_space_explorer.git
+1. git clone https://github.com/speeedev/Space_Explorer_App_Flutter.git
 2. flutter pub get
 3. flutter run
 
