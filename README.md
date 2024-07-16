@@ -35,18 +35,22 @@ Information is retrieved from the Splash page via API. It is then forwarded to t
 
 ### Screenshoots
 
-    <table>
-        <tr>
-            <th>Splash</th>
-            <th></th>
-        </tr>
-        <tr>
-            <td>Home</td>
-            <td><img src="path/to/image1.png"></td>
-        </tr>
-        <tr>
-            <td>Planet Detail</td>
-            <td><img src="path/to/image2.png"></td>
-        </tr>
-    </table>
-
+    
+<table>
+    <tr>
+        <th>View Name</th>
+        <th>Screenshot</th>
+    </tr>
+    <tr>
+        <td>Splash</td>
+        <td><img src="https://github.com/speeedev/flutter_space_explorer/blob/master/screenshots/splash.png" style="height: 800px;"></td>
+    </tr>
+    <tr>
+        <td>Home</td>
+        <td><img src="https://github.com/speeedev/flutter_space_explorer/blob/master/screenshots/home.png" style="height: 800px;"></td>
+    </tr>
+    <tr>
+        <td>Planet Detail</td>
+        <td><img src="https://github.com/speeedev/flutter_space_explorer/blob/master/screenshots/planet%20detail.png" style="height: 800px;"></td>
+    </tr>
+</table>
