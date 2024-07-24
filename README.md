@@ -20,7 +20,7 @@ The Space Explorer application I developed with Flutter gives information about 
 
 ### Working Logic
 
-When the application is opened, it connects to the [API system](https://planet-app-api.onrender.com/) I wrote through the network process and information about the planets is retrieved from there. I launched the API system with [render.com](https://render.com/), a free hosting service.
+When the application is opened, it connects to the [API system]([https://planet-app-api.onrender.com/](https://github.com/speeedev/planet-app-api)) I wrote through the network process and information about the planets is retrieved from there. I launched the API system with [render.com](https://render.com/), a free hosting service.
 
 Information is retrieved from the Splash page via API. It is then forwarded to the home page. When the user clicks on the planet whose details he wants to see, the planet information is sent while being directed to the page. In other words, no more network operations are performed on the Planet Detail page.
 
